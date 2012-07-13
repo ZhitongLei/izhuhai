@@ -1,0 +1,50 @@
+<publishData>
+  <publishTarget publishUrl="D:\iZhuHai\">
+    <file relUrl="iZhuHai.html" publishTime="07/01/2012 14:23:02" />
+    <file relUrl="js/jquery-1.5.1.js" publishTime="07/01/2012 14:22:20" />
+    <file relUrl="iZhuHai.css" publishTime="07/01/2012 14:26:14" />
+    <file relUrl="images/textarea1.jpg" publishTime="07/01/2012 14:22:24" />
+    <file relUrl="images/input.jpg" publishTime="07/01/2012 14:22:24" />
+    <file relUrl="Web.config" publishTime="06/11/2012 01:20:46" />
+    <file relUrl="iZhuHai.js" publishTime="06/10/2012 13:24:00" />
+    <file relUrl="images/textarea.jpg" publishTime="07/01/2012 14:22:24" />
+    <file relUrl="bin/iZhuHai.dll" publishTime="07/01/2012 14:39:12" />
+    <file relUrl="images/input1.jpg" publishTime="07/01/2012 14:22:24" />
+    <file relUrl="js/iZhuHai.js" publishTime="07/01/2012 14:22:20" />
+    <file relUrl="images/title.png" publishTime="07/01/2012 14:22:24" />
+    <file relUrl="images/bg.jpg" publishTime="07/01/2012 14:22:24" />
+    <file relUrl="jquery-1.5.1.js" publishTime="06/10/2012 13:24:00" />
+    <file relUrl="bin/iZhuHai.pdb" publishTime="07/01/2012 14:39:12" />
+    <file relUrl="images/sub.jpg" publishTime="07/01/2012 14:22:24" />
+    <file relUrl="images/glow.png" publishTime="07/01/2012 14:22:24" />
+    <file relUrl="register.aspx" publishTime="06/10/2012 23:56:56" />
+    <file relUrl="images/bg5.jpg" publishTime="07/01/2012 14:22:24" />
+    <file relUrl="registerSucceed.html" publishTime="07/01/2012 14:31:08" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Documents and Settings\redapple\桌面\">
+    <file relUrl="js/jquery-1.5.1.js" publishTime="06/10/2012 13:24:06" />
+    <file relUrl="iZhuHai.css" publishTime="06/10/2012 13:24:00" />
+    <file relUrl="images/input.jpg" publishTime="06/10/2012 13:24:08" />
+    <file relUrl="Web.config" publishTime="06/10/2012 14:39:32" />
+    <file relUrl="images/bg8.jpg" publishTime="06/10/2012 13:24:08" />
+    <file relUrl="iZhuHai.js" publishTime="06/10/2012 13:24:00" />
+    <file relUrl="images/bg3.jpg" publishTime="06/10/2012 13:24:06" />
+    <file relUrl="images/textarea.jpg" publishTime="06/10/2012 13:24:10" />
+    <file relUrl="bin/iZhuHai.dll" publishTime="06/10/2012 17:00:24" />
+    <file relUrl="js/iZhuHai.js" publishTime="06/10/2012 13:24:06" />
+    <file relUrl="images/text.png" publishTime="06/10/2012 13:24:10" />
+    <file relUrl="images/title.png" publishTime="06/10/2012 13:24:10" />
+    <file relUrl="images/bg.jpg" publishTime="06/10/2012 13:24:06" />
+    <file relUrl="images/bg6.jpg" publishTime="06/10/2012 13:24:08" />
+    <file relUrl="jquery-1.5.1.js" publishTime="06/10/2012 13:24:00" />
+    <file relUrl="images/bg1.jpg" publishTime="06/10/2012 13:24:06" />
+    <file relUrl="images/bgimage.jpg" publishTime="06/10/2012 13:24:08" />
+    <file relUrl="bin/iZhuHai.pdb" publishTime="06/10/2012 17:00:24" />
+    <file relUrl="images/sub.jpg" publishTime="06/10/2012 13:24:10" />
+    <file relUrl="images/text1.jpg" publishTime="06/10/2012 13:24:10" />
+    <file relUrl="images/bg4.jpg" publishTime="06/10/2012 13:24:06" />
+    <file relUrl="register.aspx" publishTime="06/10/2012 16:58:52" />
+    <file relUrl="images/bg5.jpg" publishTime="06/10/2012 13:24:08" />
+    <file relUrl="images/div1.png" publishTime="06/10/2012 13:24:08" />
+  </publishTarget>
+</publishData>

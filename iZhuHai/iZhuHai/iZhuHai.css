@@ -1,0 +1,115 @@
+/* CSS Document */
+html{
+	background:#4683c6 url('./images/glow.png')  no-repeat 350px top;}
+
+*{
+margin:0;
+padding:0;}
+
+img{
+border:none;}
+
+ul{
+list-style:none;}
+
+body{
+font-size:18px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+
+}
+
+.clear{
+clear:both;
+height:0px;
+width:1px;}
+
+/*±êÌâ*/
+
+.title{
+width:221px;
+height:79px;
+background:url(./images/title.png) 0 0 no-repeat;
+margin-top:300px;
+margin-left:200px;
+float:left;
+}
+
+/*×¢²á¿ò*/
+
+.apply{
+width:340px;
+height:350px;
+float:left;
+margin-top:230px;
+margin-left:200px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+.textInput{
+width:238px;
+height:28px;
+border:none;
+margin-top:20px;
+padding:6px;
+font-size:20px;
+background:url(./images/input1.jpg) 0 0 no-repeat;}
+
+#introduce{
+font-size:20px;
+margin-top:20px;
+padding:8px 5px 5px 5px;
+width:240px;
+height:137px;
+background:url(./images/textarea1.jpg) 0 0 no-repeat;
+border:none;
+text-indent:12px;}
+
+#applySub{
+width:50px;
+height:30px;
+float:right;
+color:#6666CC;
+margin-top:20px;
+}
+
+.introduce{
+float:left;
+margin-top:20px;}
+
+#introduce{
+overflow:auto;}
+
+.applyLabel{
+display:block;
+float:right;
+height:30px;}
+
+/*¾¯¸æ¿ò*/
+#alertDiv{
+width:270px;
+height:60px;
+float:left;
+margin-top:240px;
+}
+
+.alerts{
+width:262px;
+height:60px;
+font-size:22px;
+color: #FF9933;
+text-align:left;
+padding:8px 0 0 3px;
+display:none;
+}
+
+/*»¶Ó­Ò³Ãæ*/
+#applySucceed{
+width:500px;
+height:300px;
+float:left;
+margin-left:180px;
+margin-top:250px;
+text-align:center;
+font-size:30px;
+color: #FF9933;}
